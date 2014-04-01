@@ -1,6 +1,8 @@
 launchpad-app
 =============
 
+A simple library for creating applications using the Novation Launchpad.
+
 Installation
 ------------
 
